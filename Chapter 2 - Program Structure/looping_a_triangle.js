@@ -1,5 +1,5 @@
 /* 
-1. Looping A Triangle (30/12/2019)
+1. Looping A Triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
 #
 ##
